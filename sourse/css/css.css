@@ -1,0 +1,157 @@
+header {
+    background-color: crimson;
+}
+
+footer {
+    background-color: black;
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.navbar-text a {
+    color: aliceblue;
+}
+.bgc {
+    background-color: bisque;
+}
+.bga {
+    width: 100%;
+    height: 100px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.iconca {
+    height: 100px;
+    width: 100px;
+}
+.bga img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    z-index: 1;
+}
+.marlii {
+    margin-top: 90px;
+}
+.textvideo {
+    color: rgb(0, 0, 0);
+    z-index: 2;
+}
+
+.nav-bar {
+    height: 1000px;
+    width: 450px;
+    background-color: dimgrey;
+}
+
+.navbar-nav .nav-link.active {
+    color: aliceblue;
+}
+
+.navbar-nav .nav-link {
+    color: rgb(117, 121, 124);
+}
+
+.fot {
+    margin-bottom: 5px;
+}
+
+.set {
+    position: absolute;
+    right: 0;
+}
+
+.gary {
+    background-color: rgb(131, 129, 129);
+}
+
+.marili {
+    margin-top: 50px;
+}
+
+footer p {
+    color: aliceblue;
+}
+
+.min {
+    margin-top: 55px;
+}
+
+footer {
+    margin-top: 500px;
+}
+
+.sta {
+    height: 93%;
+    width: 93%;
+}
+
+@media (max-width: 990px) {
+    .set {
+        display: flex;
+        right: auto;
+
+    }
+}
+
+.mari {
+    margin: 1em;
+}
+
+.marli {
+    margin-top: 40px;
+}
+
+.fot {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.mar {
+    margin-top: 35px;
+}
+
+.maru {
+    margin-top: 1em;
+}
+
+.marl {
+    margin-top: 35px;
+}
+
+.grey a {
+    text-decoration: none;
+    color: black;
+}
+
+footer p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-tex {
+    margin: auto auto;
+}
+
+.sto {
+    width: 100%;
+}
+
+.ght {
+    display: flex;
+}
+
+.sketchfab-embed-wrapper {
+    display: flex;
+    /*     margin: 0%; */
+}
+
+.bg {
+    background-color: antiquewhite;
+}
